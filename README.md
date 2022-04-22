@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @CristopherSandoval
-- 👀 I’m interested in learning about computer science.
-- 🌱 I’m currently learning, python, algorithms...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning about Computer Science, Programming, Algorithms, and others things.
 
 <!---
 CristopherSandoval/CristopherSandoval is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
